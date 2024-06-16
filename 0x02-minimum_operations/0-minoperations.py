@@ -22,4 +22,3 @@ def minOperations(n):
             n /= x
         x += 1
     return result
-
