@@ -1,6 +1,4 @@
-Sure, here is the README in Markdown format:
 
-```markdown
 # Pascal's Triangle Generator
 
 ## Introduction
