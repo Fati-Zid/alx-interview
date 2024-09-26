@@ -1,13 +1,5 @@
 #!/usr/bin/python3
-"""
-   Calculate the perimeter of the island described in the grid.
-
-    Parameters:
-    grid (List[List[int]]): A 2D list representing the map where 0 indicates water and 1 indicates land.
-
-    Returns:
-    int: The perimeter of the island.
-"""
+""" Calculate the perimeter of the island described in the grid. """
 
 
 def island_perimeter(grid):
